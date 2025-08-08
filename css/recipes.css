@@ -1,3 +1,11 @@
 * {
   font-family: Verdana, Inter, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+div {
+  background-color: cornsilk;
+  margin: 50px;
+  padding: 25px;
+  width: 700px;
 }
